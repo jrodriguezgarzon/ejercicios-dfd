@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+12
+edad, compra
+7
+0
+1
+7
+edad>50
+4
+1
+35
+'valor total de la compra ', compra
+13
+4
+1
+17
+'tiene descuento'
+6
+2
+9
+descuento
+10
+compra*0.1
+5
+total
+16
+compra-descuento
+4
+1
+39
+'el valor total de su compra es', total
+13
+1

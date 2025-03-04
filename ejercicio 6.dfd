@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+84
+' bienvenido estimado cliente, por favor digite la cantdad de ml que desea comprar '
+5
+1
+2
+ml
+6
+3
+8
+total_ml
+7
+ml*4500
+8
+impuesto
+13
+total_ml*0.19
+11
+valor_total
+17
+impuesto+total_ml
+4
+1
+53
+'estimado cliente, su total a pagar es:', valor_total
+1
