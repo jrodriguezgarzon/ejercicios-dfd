@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+113
+'el usuario desea comprar unos zapatos de una talla en especifico, digite la talla para saber si esta disponible'
+5
+1
+5
+talla
+7
+0
+1
+20
+talla=43 or talla=44
+4
+1
+88
+'señor usuario, lamentamos informarle que la talla que busca no se encuentra disponible'
+13
+4
+1
+77
+'señor usuario, le informamos que la talla que busca se encuentra disponible'
+13
+1

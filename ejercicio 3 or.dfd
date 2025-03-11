@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+177
+'estimado cliente, el dia de hoy si realiza una compra de 100000 o de 120000 se le aplicara el 20% de descuento, si la compra no es de ese valor, se le cobrara su precio normal'
+5
+1
+12
+valor_compra
+7
+0
+1
+42
+valor_compra=100000 or valor_compra=120000
+4
+1
+36
+'el total a pagar es:', valor_compra
+13
+6
+2
+9
+descuento
+16
+valor_compra*0.2
+5
+total
+22
+valor_compra-descuento
+4
+1
+29
+'el total a pagar es:', total
+13
+1

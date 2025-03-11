@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+138
+'para ingresar al castillo magico, usted debe tener su tarjeta de identidad y el permiso de sus padres, de lo contrario no podra ingresar'
+5
+1
+16
+tarjeta, permiso
+7
+0
+1
+23
+tarjeta=1 and permiso=2
+4
+1
+38
+'no puede ingresar al castillo magico'
+13
+4
+1
+35
+'puede ingresar al castillo magico'
+13
+1

@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+121
+'estimado estudiante, usted necesita el permiso de su mamá o su papá para ir al paseo, de lo contrario no podrá asistir,'
+5
+1
+10
+mamá, papá
+7
+0
+1
+16
+mamá=1 or papá=2
+4
+1
+111
+'estimado estudiante, no cuenta con el pesmiso de alguno de sus padres, por lo tanto no puede asistir al paseo'
+13
+4
+1
+82
+'estimado estudiannte, puede asistir ya que tiene el permiso de uno de sus padres'
+13
+1

@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+69
+'señor usuario digite su edad para saber si puede ingresar al parque'
+5
+1
+4
+edad
+7
+0
+1
+18
+edad=17 or edad=18
+4
+1
+58
+'lo sentimos, no cumple con la edad necesaria para entrar'
+13
+4
+1
+66
+'señor usuario, puede ingresar al parque ya que su edad es:', edad
+13
+1

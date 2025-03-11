@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+155
+'en la fiesta de colores de hoy, las personas que tengan el pelo de color rojo o verde pueden ingresar, los que lo tengan de otro color no pueden ingresar'
+5
+1
+10
+color_pelo
+6
+2
+5
+verde
+1
+1
+4
+rojo
+1
+2
+7
+0
+1
+28
+color_pelo=1 or color_pelo=2
+4
+1
+44
+'lo sentimos, no puede ingresar a la fiesta'
+13
+4
+1
+28
+'puede ingresar a la fiesta'
+13
+1
