@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+6
+p1, p2
+7
+0
+1
+7
+p1 > p2
+6
+3
+4
+desc
+9
+p2 * 0.07
+9
+seg_total
+9
+p2 - desc
+6
+total1
+14
+p1 - (p1*0.19)
+4
+1
+18
+seg_total + total1
+13
+6
+3
+3
+iva
+9
+p1 * 0.19
+5
+total
+8
+p1 + iva
+6
+total2
+14
+p2 - (p2*0.07)
+4
+1
+14
+total + total2
+13
+1
