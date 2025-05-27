@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+' Señor usuario, por favor digite la cantidad de tazas que desea '
+5
+1
+2
+ct
+6
+2
+2
+vt
+5
+12000
+5
+total
+5
+vt*ct
+4
+1
+31
+' El total a pagar es: ', total
+1

@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+15
+numero_escogido
+7
+0
+1
+40
+numero_escogido>0 and numero_escogido<99
+4
+1
+13
+'no concursa'
+13
+4
+1
+17
+'puede concursar'
+7
+0
+1
+39
+numero_escogido=7 or numero_escogido=43
+4
+1
+8
+'pierde'
+13
+4
+1
+6
+'gana'
+13
+13
+1
